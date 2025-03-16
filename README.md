@@ -32,9 +32,9 @@ project of the Artos Institute.
 
 ## Further documentation
 
-See `manual.pdf` for a comprehensive manual of the package.
+See [manual.pdf](docs/manual.pdf) for a comprehensive manual of the package.
 
-See `example.typ` for some quick usage examples.
+See [example.typ](docs/example.typ) for some quick usage examples.
 
 ## Development
 
